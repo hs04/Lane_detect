@@ -1,2 +1,2 @@
 # Lane_detect
-Lane detection for autonomous city--in progress
+Lane detection for autonomous vehicles--in progress
